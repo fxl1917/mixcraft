@@ -1,0 +1,23 @@
+
+; This Sanity Check needs to be here...otherwise the software may not work properly!!
+AcousticaSanityCheck=Success
+
+NumLoopLibs=3
+
+LibName1=Download 1 (Akamai)
+LibURL1=http://download.acoustica.com/aclooplib/
+LibName2=Download 2 (CacheFly)
+LibURL2=http://acoustica1.cachefly.net/aclooplib/
+LibName3=Download 3 (Acoustica)
+LibURL3=http://www.acoustica.com/files/aclooplib/
+
+NumDefaultLibraries=3
+
+DefLib_0=Loops.mldb8
+HasPurchases_0=0
+
+DefLib_1=Sound Effects.mldb8
+HasPurchases_1=0
+
+DefLib_2=Samples.mldb8
+HasPurchases_1=0
