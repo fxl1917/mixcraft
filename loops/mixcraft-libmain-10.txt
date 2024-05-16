@@ -1,0 +1,4 @@
+NumLoopLibs=1
+
+LibName1=Download 1 (Amazon S3)
+LibURL1=https://download.acoustica.com/
