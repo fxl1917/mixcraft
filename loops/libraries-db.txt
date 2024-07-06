@@ -1,0 +1,3 @@
+..\..\ProgramData\Acoustica\Mixcraft\installations\23\Built-In Loop & Sound Libraries\files\Loops.mldb10
+..\..\ProgramData\Acoustica\Mixcraft\installations\23\Built-In Loop & Sound Libraries\files\Samples.mldb10
+..\..\ProgramData\Acoustica\Mixcraft\installations\23\Built-In Loop & Sound Libraries\files\Sound Effects.mldb10
